@@ -43,4 +43,4 @@ Favorite Recipe Page: This page displays a list of recipes that users have previ
 
 ## Teaser (MS3)
 
-![Teaser](./images/teaser final.png)
+![Teaser](./images/teaser-final.png)
